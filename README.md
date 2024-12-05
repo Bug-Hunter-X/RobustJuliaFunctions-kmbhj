@@ -1,0 +1,2 @@
+# Julia Unexpected Error Handling
+This example demonstrates an unexpected error in Julia when dealing with function input validation.  The `myfunction` is designed to handle positive and zero inputs, but throws an error when a negative number is provided.  The solution shows how to improve error handling and potentially provide more informative messages.
